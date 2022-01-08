@@ -6,6 +6,7 @@ reactjs - libraries
 2.  react-quill
 3.  axios
 4.  html-react-parser
+5.  sweetalert2
 
 #server
 nodejs - libraries
