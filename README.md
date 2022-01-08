@@ -1,7 +1,7 @@
 # MongoDB, Express, React, Node
 
 #blogapp
-react - libraries
+reactjs - libraries
 1.  react-router-dom v6
 2.  react-quill
 3.  axios
