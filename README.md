@@ -9,7 +9,7 @@
 5.  sweetalert2
 6.  react-hook [useState, useEffect]
 
-#blogapp
+# blogapp
 
 1.  react-router-dom v6
 2.  react-quill
@@ -17,7 +17,7 @@
 4.  html-react-parser
 5.  sweetalert2
 
-#server
+# server
 nodejs - libraries
 1.  express
 2.  express-jwt
