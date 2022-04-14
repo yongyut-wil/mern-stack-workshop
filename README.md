@@ -1,5 +1,11 @@
 # MongoDB, Express, React, Node
-
+#blogapp-v2
+1.  antd
+2.  react-router-dom v6 [useParams,useNavigate]
+3.  axios
+4.  html-react-parser
+5.  sweetalert2
+6.  react-hook [useState, useEffect]
 #blogapp
 reactjs - libraries
 1.  react-router-dom v6
